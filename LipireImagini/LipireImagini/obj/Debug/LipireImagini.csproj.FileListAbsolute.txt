@@ -1,0 +1,14 @@
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\LipireImagini.csprojAssemblyReference.cache
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\LipireImagini.Form1.resources
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\LipireImagini.Properties.Resources.resources
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\LipireImagini.csproj.GenerateResource.cache
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\LipireImagini.csproj.CoreCompileInputs.cache
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\bin\Debug\Lipeste Imagini.exe.config
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\bin\Debug\Lipeste Imagini.exe.manifest
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\bin\Debug\Lipeste Imagini.application
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\bin\Debug\Lipeste Imagini.exe
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\bin\Debug\Lipeste Imagini.pdb
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\Lipeste Imagini.exe.manifest
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\Lipeste Imagini.application
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\Lipeste Imagini.exe
+C:\Users\calin\source\repos\LipireImagini\LipireImagini\obj\Debug\Lipeste Imagini.pdb

@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lipeste Imagini", "LipireImagini\Lipeste Imagini.csproj", "{10714775-F5EF-4935-8707-3D77B3710AF1}"
+EndProject
+Project("{840C416C-B8F3-42BC-B0DD-F6BB14C9F8CB}") = "Lip Img", "Lipeste Imagini\Lip Img.aiproj", "{CBF5AB2C-45D4-4BED-AB4F-F7A650B0810B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		All|Any CPU = All|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10714775-F5EF-4935-8707-3D77B3710AF1}.All|Any CPU.ActiveCfg = Release|Any CPU
+		{10714775-F5EF-4935-8707-3D77B3710AF1}.All|Any CPU.Build.0 = Release|Any CPU
+		{10714775-F5EF-4935-8707-3D77B3710AF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10714775-F5EF-4935-8707-3D77B3710AF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10714775-F5EF-4935-8707-3D77B3710AF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10714775-F5EF-4935-8707-3D77B3710AF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF5AB2C-45D4-4BED-AB4F-F7A650B0810B}.All|Any CPU.ActiveCfg = DefaultBuild
+		{CBF5AB2C-45D4-4BED-AB4F-F7A650B0810B}.Debug|Any CPU.ActiveCfg = DefaultBuild
+		{CBF5AB2C-45D4-4BED-AB4F-F7A650B0810B}.Release|Any CPU.ActiveCfg = DefaultBuild
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F245ED06-E285-4743-8B83-AB3BE1B3E492}
+	EndGlobalSection
+EndGlobal
